@@ -1,0 +1,10 @@
+venv/
+NeoPixel-Helper.spec
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+dist/
+build/
+NeoPixel-Helper.py
